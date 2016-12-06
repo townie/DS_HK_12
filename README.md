@@ -27,8 +27,8 @@ Student projects and assignements can be submitted through the [Submission Form]
 | 6 | 17-03-01 | Dickson | [NLP with Classification](./lessons/lesson-03) | | **[Unit Project 4](./project./projects/unit-projects/project-4)** |
 | | | | **Unit 3 - Data Science in the Real World** | | |
 | 7 | 17-03-06 | Mart | [Feature Engineering (Clustering)](./lessons/lesson-13) | | |
-| 7 | 17-02-08 | Mart | [Feature Engineering (Dimensional Reduction)](./lessons/lesson-14) | **[Final Project 3](./projects/final-projects/03-exploratory-analysis)** | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** |
-| 8 | 17-02-13 | Alex | [Time Series Data](./lessons/lesson-15) | | |
+| 7 | 17-03-08 | Mart | [Feature Engineering (Dimensional Reduction)](./lessons/lesson-14) | **[Final Project 3](./projects/final-projects/03-exploratory-analysis)** | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** |
+| 8 | 17-03-13 | Alex | [Time Series Data](./lessons/lesson-15) | | |
 | 8 | 17-03-15 | Alex | [Modeling Time Series Data](./lessons/lesson-16) | **[Final Project 4](./projects/final-projects/04-notebook-rough-draft)** | **[Final Project 3](./projects/final-projects/03-exploratory-analysis)** |
 | 9 | 17-03-20 | Mart | [Data Science Pipelines](./lessons/lesson-17) | | |
 | 9 | 17-03-22 | Mart | [Kaggle Competition](./lessons/lesson-18) | **[Final Project 5](./projects/final-projects/05-presentation)** | **[Final Project 4](./projects/final-projects/04-notebook-rough-draft)** |
