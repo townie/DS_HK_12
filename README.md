@@ -47,5 +47,5 @@ Student projects and assignements can be submitted through the [Submission Form]
 
 ## Facebook
 
-You've all been invited to use Facebook **ADDLINK** for updates and shares during class and the day.  Please consider this the primary way to contact other students. Instructors will be monitoring the Facebook group during class and office hours to handle questions.
+You've all been invited to use [Facebook](https://www.facebook.com/groups/117373618752100/) for updates and shares during class and the day.  Please consider this the primary way to contact other students. Instructors will be monitoring the Facebook group during class and office hours to handle questions.
 
