@@ -4,7 +4,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Project folder
 
-Student projects and assignements can be submitted through the Submission Form **ADDLINK**
+Student projects and assignements can be submitted through the [Submission Form](https://docs.google.com/a/type.hk/forms/d/e/1FAIpQLSfSWM7Pe-lBUVLmlpNUDZ-5GAY0nu52H4hWtdq_uiNg3ZEjNg/viewform?c=0&w=1)
 
 ## Schedule
 
