@@ -24,7 +24,7 @@ Student projects and assignements can be submitted through the Submission Form *
 | 5 | 17-02-20 | Dickson | [Intro to Logistic Regression ](./lessons/lesson-09) | **[Unit Project 4](./project./projects/unit-projects/project-4)** | |
 | 5 | 17-02-22 | Dickson | [Decision Trees / Random Forest](./lessons/lesson-01) | | **[Unit Project 3](./project./projects/unit-projects/project-3)** |
 | 6 | 17-02-27 | Mart | [Communicating Model Results](./lessons/lesson-02) | | |
-| 6 | 17-03-29 | Dickson | [NLP with Classification](./lessons/lesson-03) | | **[Unit Project 4](./project./projects/unit-projects/project-4)** |
+| 6 | 17-03-01 | Dickson | [NLP with Classification](./lessons/lesson-03) | | **[Unit Project 4](./project./projects/unit-projects/project-4)** |
 | | | | **Unit 3 - Data Science in the Real World** | | |
 | 7 | 17-03-06 | Mart | [Feature Engineering (Clustering)](./lessons/lesson-13) | | |
 | 7 | 17-02-08 | Mart | [Feature Engineering (Dimensional Reduction)](./lessons/lesson-14) | **[Final Project 3](./projects/final-projects/03-exploratory-analysis)** | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** |
