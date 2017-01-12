@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS_HK_12](https://github.com/ga-students/DS_HK_12)
 
-Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/hong-kong) in Hong Kong (12/10/16 - 19/12/16)
+Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/hong-kong) in Hong Kong (16/01/17 - 29/03/17)
 
 ## Project folder
 
@@ -35,7 +35,7 @@ Student projects and assignements can be submitted through the [Submission Form]
 | 10 | 17-03-27 | All | Final Project Labs | | **[Final Project](./projects/final-projects/05-presentation)** |
 | 10 | 17-03-29 | All | Final Project Projects | | **[Final Project](./projects/final-projects/05-presentation)** |
 
-*(Syllabus last updated on 06/07/2017)*
+*(Syllabus last updated on 06/07/2016)*
 
 ## Your Team
 
