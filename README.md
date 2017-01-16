@@ -41,8 +41,12 @@ Student projects and assignements can be submitted through the [Submission Form]
 
 | Week | Date | Day of Week | Instructor | Location |
 |:---:|:---:|:---:|:---|:---|
-| 1  | 2017-01-17 | Tuesday  | Dickson | GA - TBC |
-
+| 1  | 2017-01-17 | Tuesday   | Dickson | GA - TBC |
+| 1  | 2017-01-26 | Thursday  | Dickson | GA - TBC |
+| 1  | 2017-02-16 | Thursday  | Dickson | GA - TBC |
+| 1  | 2017-02-28 | Tuesday   | Dickson | GA - TBC |
+| 1  | 2017-03-14 | Tuesday   | Dickson | GA - TBC |
+| 1  | 2017-03-23 | Thursday  | Dickson | GA - TBC |
 
 *(Office Hours Schedule last updated on 2017-01-16)*
 
