@@ -33,8 +33,12 @@ You'll get the opportunity to get immediate feedback and guidance in order to he
 
 - **Submission:**	
     * Present materials in class
+<<<<<<< HEAD
     * Submit presentation to instructor via our [submission form](https://docs.google.com/forms/d/e/1FAIpQLScTItYSwramw2fi8Df-8Os_1WTC-TgqI9A0ps8pcKJrpDChsw/viewform?c=0&w=1).
 
+=======
+    * Submit presentation to instructor via our [Submission Form](https://docs.google.com/a/type.hk/forms/d/e/1FAIpQLSfSWM7Pe-lBUVLmlpNUDZ-5GAY0nu52H4hWtdq_uiNg3ZEjNg/viewform?c=0&w=1).
+>>>>>>> fed33b598e9693592294591e9a4c59f4da6695e1
 ---
 
 ### TIMELINE

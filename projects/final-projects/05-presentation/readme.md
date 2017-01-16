@@ -65,7 +65,11 @@ A 10 to 20 slide deck consisting of:
 
 **Submission:**	
 
+<<<<<<< HEAD
   - Final format and submission location are TBD 
+=======
+  - [Submission Form](https://docs.google.com/a/type.hk/forms/d/e/1FAIpQLSfSWM7Pe-lBUVLmlpNUDZ-5GAY0nu52H4hWtdq_uiNg3ZEjNg/viewform?c=0&w=1)
+>>>>>>> fed33b598e9693592294591e9a4c59f4da6695e1
 
 ---
 

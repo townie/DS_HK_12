@@ -30,7 +30,11 @@ Following these steps will help you better understand your dataset.
     - Advanced Option: Replace missing values using multiple imputation methods
 
 - **Submission:**
+<<<<<<< HEAD
     - Due Midnight 26 Oct 2016 via our [submission form](https://docs.google.com/forms/d/e/1FAIpQLScTItYSwramw2fi8Df-8Os_1WTC-TgqI9A0ps8pcKJrpDChsw/viewform?c=0&w=1)
+=======
+    - Due Midnight 6 Feb 2017 via our [Submission Form](https://docs.google.com/a/type.hk/forms/d/e/1FAIpQLSfSWM7Pe-lBUVLmlpNUDZ-5GAY0nu52H4hWtdq_uiNg3ZEjNg/viewform?c=0&w=1)
+>>>>>>> fed33b598e9693592294591e9a4c59f4da6695e1
 
 ---
 
