@@ -27,11 +27,7 @@ In this project, you will summarize and present your analysis from Projects 1-3.
     - Visualize your findings! Use charts, graphs, or other images as appropriate.
 
 - **Submission:**
-<<<<<<< HEAD
-    - Due on 21 Nov 2016
-=======
     - Due on 01 Mar 2017
->>>>>>> fed33b598e9693592294591e9a4c59f4da6695e1
 
 ---
 
