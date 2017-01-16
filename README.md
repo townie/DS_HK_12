@@ -1,10 +1,10 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS_HK_12](https://github.com/ga-students/DS_HK_12)
 
-Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/hong-kong) in Hong Kong (16/01/17 - 29/03/17)
+Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/hong-kong) in Hong Kong (17-01-16 - 17-03-29)
 
 ## Project folder
 
-Student projects and assignements can be submitted through the [Submission Form](https://docs.google.com/a/type.hk/forms/d/e/1FAIpQLSfSWM7Pe-lBUVLmlpNUDZ-5GAY0nu52H4hWtdq_uiNg3ZEjNg/viewform?c=0&w=1)
+Student projects and assignements can be submitted through the [Submission Form](https://goo.gl/forms/1WgK8m28WFf0rAEp2)
 
 ## Schedule
 
@@ -35,7 +35,22 @@ Student projects and assignements can be submitted through the [Submission Form]
 | 10 | 17-03-27 | All | Final Project Labs | | **[Final Project](./projects/final-projects/05-presentation)** |
 | 10 | 17-03-29 | All | Final Project Projects | | **[Final Project](./projects/final-projects/05-presentation)** |
 
-*(Syllabus last updated on 06/07/2016)*
+*(Syllabus last updated on 2016-06-07)*
+
+## Office Hours
+
+| Week | Date | Day of Week | Instructor | Location |
+| 1  | 2017-01-17 | Tuesday  | Dickson | GA - TBC |
+| 2  | 2017-01-24 | Tuesday  | Dickson | GA - TBC |
+| 3  | 2017-02-09 | Thursday | Dickson | GA - TBC |
+| 4  | 2017-02-16 | Thursday | Dickson | GA - TBC |
+| 5  | 2017-02-23 | Thursday | Dickson | GA - TBC |
+| 6  | 2017-03-02 | Thursday | Dickson | GA - TBC |
+| 8  | 2017-03-14 | Tuesday  | Dickson | GA - TBC |
+| 9  | 2017-03-23 | Thursday | Dickson | GA - TBC |
+| 10 | 2017-03-28 | Tuesday  | Dickson | GA - TBC |
+
+*(Office Hours Schedule last updated on 2017-01-16)*
 
 ## Your Team
 
