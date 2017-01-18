@@ -7,7 +7,7 @@
 | Alex     |   |   |   |   |   |   |   |   |   |   |
 | April    |   |   |   |   |   |   |   |   |   |   |
 | Blake    | Y |   |   |   |   |   |   |   |   |   |
-| Daniel   |   |   |   |   |   |   |   |   |   |   |
+| Daniel   | Y |   |   |   |   |   |   |   |   |   |
 | Ian      | Y |   |   |   |   |   |   |   |   |   |
 | Kateryna | Y |   |   |   |   |   |   |   |   |   |
 | Kelvin   | Y |   |   |   |   |   |   |   |   |   |
