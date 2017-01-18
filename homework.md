@@ -42,8 +42,6 @@
 
 # Final Project
 
-# Unit projects
-
 | Name     | 1 | 2 | 3 | 4 | P |
 |:-:       |---|---|---|---|---|
 | Adrian   |   |   |   |   |   |
