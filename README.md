@@ -37,6 +37,8 @@ Student projects and assignements can be submitted through the [Submission Form]
 
 *(Syllabus last updated on 2016-06-07)*
 
+Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_HK_12-Schedule/Schedule_Dashboard?:embed=y&:display_count=no&:toolbar=no).
+
 ## Office Hours
 
 | Week | Date | Day of Week | Instructor | Location | Status |
