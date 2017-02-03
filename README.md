@@ -37,18 +37,20 @@ Student projects and assignements can be submitted through the [Submission Form]
 
 *(Syllabus last updated on 2016-06-07)*
 
+Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_HK_12-Schedule/Schedule_Dashboard?:embed=y&:display_count=no&:toolbar=no).
+
 ## Office Hours
 
-| Week | Date | Day of Week | Instructor | Location |
-|:---:|:---:|:---:|:---|:---|
-| 1  | 2017-01-17 | Tuesday   | Dickson | GA - TBC |
-| 2  | 2017-01-26 | Thursday  | Dickson | GA - TBC |
-| 4  | 2017-02-16 | Thursday  | Dickson | GA - TBC |
-| 6  | 2017-02-28 | Tuesday   | Dickson | GA - TBC |
-| 8  | 2017-03-14 | Tuesday   | Dickson | GA - TBC |
-| 9  | 2017-03-23 | Thursday  | Dickson | GA - TBC |
+| Week | Date | Day of Week | Instructor | Location | Status |
+|:---:|:---:|:---:|:---|:---|:---|
+| 1  | 2017-01-17 | Tuesday   | Dickson | TESLA on 9/F | Previous |
+| 2  | 2017-01-26 | Thursday  | Dickson | TESLA on 9/F | Previous |
+| 4  | **2017-02-16** | **Thursday**  | **Dickson** | **TESLA on 9/F** | **Upcoming** |
+| 6  | 2017-02-28 | Tuesday   | Dickson | TESLA on 9/F | - |
+| 8  | 2017-03-14 | Tuesday   | Dickson | TESLA on 9/F | - |
+| 9  | 2017-03-23 | Thursday  | Dickson | TESLA on 9/F | - |
 
-*(Office Hours Schedule last updated on 2017-01-16)*
+*(Office Hours Schedule last updated on 2017-01-29)*
 
 ## Your Team
 
