@@ -47,8 +47,8 @@ Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_H
 |:---:|:---:|:---:|:---|:---|:---|
 | 1  | 2017-01-17 | Tuesday   | Dickson | TESLA on 9/F | Previous |
 | 2  | 2017-01-26 | Thursday  | Dickson | TESLA on 9/F | Previous |
-| 4  | **2017-02-16** | **Thursday**  | **Dickson** | **TESLA on 9/F** | **Upcoming** |
-| 6  | 2017-02-28 | Tuesday   | Dickson | TESLA on 9/F | - |
+| 4  | 2017-02-16 | Thursday  | Dickson | TESLA on 9/F | Previous |
+| 6  | **2017-02-28** | **Tuesday**   | **Dickson** | **TESLA on 9/F ** | **Upcoming** |
 | 8  | 2017-03-14 | Tuesday   | Dickson | TESLA on 9/F | - |
 | 9  | 2017-03-23 | Thursday  | Dickson | TESLA on 9/F | - |
 
