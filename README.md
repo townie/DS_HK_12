@@ -4,7 +4,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Project folder
 
-Student projects and assignements can be submitted through the [Submission Form](https://goo.gl/forms/1WgK8m28WFf0rAEp2)
+Student projects and assignements can be submitted through the [Submission Form](https://goo.gl/forms/1WgK8m28WFf0rAEp2).
+
+[Submission Tracker](https://public.tableau.com/views/GA-DS_HK_12-HWSubmission/SubmissionSummary?:embed=y&:display_count=yes&:toolbar=no)
 
 ## Schedule
 
@@ -37,18 +39,20 @@ Student projects and assignements can be submitted through the [Submission Form]
 
 *(Syllabus last updated on 2016-06-07)*
 
+Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_HK_12-Schedule/Schedule_Dashboard?:embed=y&:display_count=no&:toolbar=no).
+
 ## Office Hours
 
 | Week | Date | Day of Week | Instructor | Location | Status |
 |:---:|:---:|:---:|:---|:---|:---|
 | 1  | 2017-01-17 | Tuesday   | Dickson | TESLA on 9/F | Previous |
-| 2  | **2017-01-26** | **Thursday**  | **Dickson** | **TESLA on 9/F** | **Upcoming** |
-| 4  | 2017-02-16 | Thursday  | Dickson | TESLA on 9/F | - |
-| 6  | 2017-02-28 | Tuesday   | Dickson | TESLA on 9/F | - |
+| 2  | 2017-01-26 | Thursday  | Dickson | TESLA on 9/F | Previous |
+| 4  | 2017-02-16 | Thursday  | Dickson | TESLA on 9/F | Previous |
+| 6  | **2017-02-28** | **Tuesday**   | **Dickson** | **TESLA on 9/F ** | **Upcoming** |
 | 8  | 2017-03-14 | Tuesday   | Dickson | TESLA on 9/F | - |
 | 9  | 2017-03-23 | Thursday  | Dickson | TESLA on 9/F | - |
 
-*(Office Hours Schedule last updated on 2017-01-23)*
+*(Office Hours Schedule last updated on 2017-01-29)*
 
 ## Your Team
 
