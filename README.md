@@ -25,7 +25,7 @@ Student projects and assignements can be submitted through the [Submission Form]
 | 4 | 17-02-15 | Dickson | [Intro to Classification](./lessons/lesson-08) | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** | **[Final Project 1](./projects/final-projects/01-lightning-talk)** |
 | 5 | 17-02-20 | Dickson | [Intro to Logistic Regression ](./lessons/lesson-09) | **[Unit Project 4](./project./projects/unit-projects/project-4)** | |
 | 5 | 17-02-22 | Dickson | [Decision Trees / Random Forest](./lessons/lesson-01) | | **[Unit Project 3](./project./projects/unit-projects/project-3)** |
-| 6 | 17-02-27 | Mart | [Communicating Model Results](./lessons/lesson-02) | | |
+| 6 | 17-02-27 | Mart | [Communicating Model Results](./lessons/lesson-02) | | [Install Spacy](https://spacy.io/docs/usage/) |
 | 6 | 17-03-01 | Dickson | [NLP with Classification](./lessons/lesson-03) | | **[Unit Project 4](./project./projects/unit-projects/project-4)** |
 | | | | **Unit 3 - Data Science in the Real World** | | |
 | 7 | 17-03-06 | Mart | [Feature Engineering (Clustering)](./lessons/lesson-13) | | |
